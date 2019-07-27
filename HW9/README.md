@@ -5,11 +5,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 
 1. Data Modeling
-
-
 2. Data Engineering
-
-
 3. Data Analysis
 
 
@@ -45,9 +41,9 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 1. Import the SQL database into Pandas. (Yes, you could read the CSVs directly in Pandas, but you are, after all, trying to prove your technical mettle.) This step may require some research. Feel free to use the code below to get started. Be sure to make any necessary modifications for your username, password, host, port, and database name:
 
 
-from sqlalchemy import create_engine
-engine = create_engine('postgresql://localhost:5432/<your_db_name>')
-connection = engine.connect()
+         from sqlalchemy import create_engine
+         engine = create_engine('postgresql://localhost:5432/<your_db_name>')
+         connection = engine.connect()
 
 
 * Consult SQLAlchemy documentation for more information.
