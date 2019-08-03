@@ -8,3 +8,5 @@ Pandas Homework
 MatPlot Homework
 * HW6 
 API's and Json Homework
+* HW9 
+SQL Homework
