@@ -14,3 +14,5 @@ SQL Homework
 Advance Data Storage
 * HW11
 HTML, CSS and Bootstrap
+* HW12
+Web scraping and Mongo
