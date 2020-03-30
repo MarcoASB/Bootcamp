@@ -1,5 +1,10 @@
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
+### You need to run the next line in the console to get the visualizations and copy the URL in the browser
+
+            python -m http.server
+            * Push Ctrl + C to finish the session
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
